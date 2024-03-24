@@ -90,6 +90,7 @@ ul {
   padding-top: 1em;
   padding-bottom: 1em;
   padding-left: 1000px;
+  padding-right: 25px;
   margin-left: -1000px;
   clip-path: polygon(0% 0%, 100% 0%, calc(100% - 20px) 50%, 100% 100%, 0% 100%);
 }
